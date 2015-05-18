@@ -1,5 +1,1 @@
-import Alt from 'alt'
-
-var alt = new Alt()
-
-export default alt
+require('./lib/index').start()
